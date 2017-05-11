@@ -2,6 +2,8 @@
 
 ***
 
+This robot(Raspberry Pi2) can recognize many objects such as people, car, fruits, and so on
+
 * Hardware: Raspberry-Pi2, PS3 Eye Camera
 
 * Software: TensorFlow(v1.0.1), Jupyter-Notebook
