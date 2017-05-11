@@ -2,4 +2,4 @@
 
 ***
 
-![RaspBot.jpeg](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/RaspBot.jpeg)
+![TensorFlow-Powered_Robot_Vision.jpg](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/TensorFlow-Powered_Robot_Vision.jpg)
