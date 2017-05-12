@@ -61,6 +61,8 @@ When you implement the jupyter-notebook, the trained data(inception_v3.ckpt) wil
 
 ## Result of Object Recognition (96.25%, EntleBucher)
 
+* Wow! This result is really awessome!!
+
 ![RecognitionResult.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Result_96.25.png)
 
 
