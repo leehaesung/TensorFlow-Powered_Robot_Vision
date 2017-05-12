@@ -8,7 +8,7 @@ This is a Pi-based robot to implement visual recognition([by Inception V3](https
 
 * Hardware: Raspberry-Pi2, Sony PS3 Eye Camera
  
-   (Available to use Logitech C270 USB camera)
+   (Available to use Logitech C270 USB camera with Raspberry Pi)
 
 * Software: TensorFlow(v1.0.1), Jupyter-Notebook
 
