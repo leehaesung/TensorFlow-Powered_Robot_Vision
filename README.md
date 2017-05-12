@@ -22,9 +22,9 @@ This is a Pi-based robot to implement visual recognition. The TensorFlow-Powered
  
  
 
-## Jupyter Notebook
+## Source Code
 
-[TensorFlow-Powered_Robot_Vision.ipynb](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
+* [TensorFlow-Powered_Robot_Vision.ipynb](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
 
 
 ## Result of Object Recognition (96.25%, EntleBucher)
