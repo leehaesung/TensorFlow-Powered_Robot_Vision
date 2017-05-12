@@ -15,13 +15,13 @@ This is a Pi-based robot to implement visual recognition. The TensorFlow-Powered
 
 ## Requirements and Installation
 
- * TensorFlow (V1.0.1): [(How To Install TensorFlow on Raspberry Pi)](https://www.instructables.com/id/Google-Tensorflow-on-Rapsberry-Pi/)
+ * TensorFlow (V1.0.1): [How To Install TensorFlow on Raspberry Pi](https://www.instructables.com/id/Google-Tensorflow-on-Rapsberry-Pi/)
  
- * Jupyter-Notebook: [(How To Install Jupyter-Notebook on Raspberry Pi)](https://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/)
+ * Jupyter-Notebook: [How To Install Jupyter-Notebook on Raspberry Pi](https://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/)
  
  
 ## Quick Start
-* You should install both TensorFlow(v1.0.1) and Jupyter-Notebook.
+* You should install both TensorFlow(v1.0.1) and Jupyter-Notebook on your Raspberry Pi.
 * First, clone the TensorFlow-Powered_Robot_Vision git repository on your Raspberry Pi. This can be accomplished by:
 ```
 cd /home/pi/Documents
