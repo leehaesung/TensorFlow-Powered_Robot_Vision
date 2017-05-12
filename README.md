@@ -22,7 +22,7 @@ This is a Pi-based robot to implement visual recognition([by Inception V3](https
 
 ([Chart: Jefree Dean's Keynote](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)). 
  
- ![Chart_IR.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/Architecture_CNN.png)
+ ![Chart_IR.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Chart_ImageRecognition.png)
 
 
 * Schematic diagram of Inception-v3 
