@@ -39,7 +39,7 @@ jupyter-notebook
 When you implement the jupyter-notebook, the trained data(inception_v3.ckpt) will automatically download there.(/pi/home/Documents/datasets/inception)
 
 
-## Source Code
+## Source Codes
 
 * [TensorFlow-Powered_Robot_Vision.ipynb](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
 * [imagenet_class_names.txt](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/datasets/inception/imagenet_class_names.txt)
