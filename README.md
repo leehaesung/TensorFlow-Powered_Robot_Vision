@@ -34,4 +34,6 @@ This is a Pi-based robot to implement visual recognition. The TensorFlow-Powered
 
 ## Reference
 * [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
+* [Image Recognition::Tensorflow.org](https://www.tensorflow.org/tutorials/image_recognition)
+
 
