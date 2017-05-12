@@ -32,6 +32,16 @@ This is a Pi-based robot to implement visual recognition([by Inception V3](https
 
 ## Requirements and Installation
 
+ * Install Webcam driver on your Rapsberry Pi.
+ ```
+ sudo apt-get install fswebcam
+ ```
+ 
+ * Test your webcam.
+ ```
+ fswebcam test.jpg
+ ```
+
  * TensorFlow (V1.0.1): [How To Install TensorFlow on Raspberry Pi](https://www.instructables.com/id/Google-Tensorflow-on-Rapsberry-Pi/)
  
  * Jupyter-Notebook: [How To Install Jupyter-Notebook on Raspberry Pi](https://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/)
