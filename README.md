@@ -30,6 +30,8 @@ This is a Pi-based robot to implement visual recognition. The TensorFlow-Powered
 
 ## Result of Object Recognition (96.25%, EntleBucher)
 
+![master/test_image.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/test_image.png)
+
 ![RecognitionResult.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Result_96.25.png)
 
 
