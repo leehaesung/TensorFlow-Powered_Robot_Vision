@@ -43,6 +43,7 @@ When you implement the jupyter-notebook, the trained data(inception_v3.ckpt) wil
 
 * [TensorFlow-Powered_Robot_Vision.ipynb](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
 * [imagenet_class_names.txt](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/datasets/inception/imagenet_class_names.txt)
+* inception_v3.ckpt (When implementing Jupyter notebook)
 
 
 ## Result of Object Recognition (96.25%, EntleBucher)
