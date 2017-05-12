@@ -17,7 +17,7 @@ This is a Pi-based robot to implement visual recognition. The TensorFlow-Powered
 * TensorFlow (Version V1.0.1) 
  * [How To Install TensorFlow on Raspberry Pi](https://www.instructables.com/id/Google-Tensorflow-on-Rapsberry-Pi/)
 * Jupyter-Notebook 
- * [How To Install Jupyter-Notebook](https://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/)
+ * [How To Install Jupyter-Notebook on Raspberry Pi](https://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/)
  
 
 ## Jupyter Notebook
