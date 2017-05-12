@@ -1,4 +1,4 @@
-# TensorFlow-Powered Robot Vision
+# TensorFlow-Powered Vision For Pi-based robot
 
 ***
 
