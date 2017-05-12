@@ -32,6 +32,16 @@
 
 ## 요구사항 및 설치
 
+ * USB 카메라드라이이버 설치하기
+ ```
+ sudo apt-get install fswebcam
+ ```
+ 
+ * USB 카메라 테스트하기
+ ```
+ fswebcam test.jpg
+ ```
+
  * 텐서플로우 (버전1.0.1): [라즈베리파이에서 텐서플로우 설치방법](https://www.instructables.com/id/Google-Tensorflow-on-Rapsberry-Pi/)
  
  * 주피터노트북: [라즈베리파이에서 주피터 설치방법](https://www.instructables.com/id/Jupyter-Notebook-on-Raspberry-Pi/)
