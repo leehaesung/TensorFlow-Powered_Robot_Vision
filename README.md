@@ -30,3 +30,8 @@ This is a Pi-based robot to implement visual recognition. The TensorFlow-Powered
 ## Result of Object Recognition (96.25%, EntleBucher)
 
 ![RecognitionResult.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Result_96.25.png)
+
+
+## Reference
+* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
+
