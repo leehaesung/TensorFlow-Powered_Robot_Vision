@@ -69,7 +69,7 @@ jupyter-notebook
 ![RecognitionResult.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Result_96.25.png)
 
 
-## 
+## 참고자료
 * [Rethinking the Inception Architecture for Computer Vision (Paper)](https://arxiv.org/abs/1512.00567)
 * [Image Recognition::Tensorflow.org (Web)](https://www.tensorflow.org/tutorials/image_recognition)
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow (Book)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?ie=UTF8&qid=1494573194&sr=8-1&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow)
