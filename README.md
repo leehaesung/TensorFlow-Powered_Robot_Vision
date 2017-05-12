@@ -2,7 +2,7 @@
 
 ***
 
-* [Korean version](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
+* [Written by Korean version](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
 
 ## Introduction
 
