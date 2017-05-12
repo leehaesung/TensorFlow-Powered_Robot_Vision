@@ -15,7 +15,7 @@ This is a Pi-based robot to implement visual recognition([by Inception V3](https
 
 
 ## Motivation
- I was so curious about exellence of the image recognition with TensorFlow on Raspberry Pi. Also, the Jupyter notebook is very useful and instantly to code as a qucik prototype. 
+ I was so curious about exellence of the image recognition with TensorFlow on Raspberry Pi. Also, the Jupyter notebook is very convenient to instantly code as a qucik prototype. 
  In terms of the image classification, Inception V3 is more excellent than human as you can see the chart ([Jeffrey Dean's Keynote @Google Brain](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)). 
  
  ![Chart_IR.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Chart_ImageRecognition.png)
