@@ -19,9 +19,7 @@ This is a Pi-based robot to implement visual recognition([by Inception V3](https
 
 ## My motivation
  I was so curious about excellence of the image recognition with TensorFlow on Raspberry Pi. Also, the Jupyter notebook is very convenient to instantly code as a quick prototype. So, in terms of error rate of the image classification, Inception V3(3.46%) is more excellent than human(5.1%) whereas raspberry pi's processing speed is very slow compare to my laptop.  
- 
- 
- ![Chart_IR.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/Architecture_CNN.png)
+
 
 
 * Schematic diagram of Inception-v3 
