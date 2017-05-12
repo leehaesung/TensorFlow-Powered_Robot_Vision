@@ -2,6 +2,8 @@
 
 ***
 
+* [English version](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README.md)
+
 ## 소개
 
 이것은 시각 인식([Inception V3](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html))을 구현하는 라즈베리파이 기반 로봇 입니다. 텐서플로우를 이용한 컴퓨터 비전은 사람, 자동차, 버스, 과일 등과 같은 많은 물체를 인식 할 수 있습니다. 
