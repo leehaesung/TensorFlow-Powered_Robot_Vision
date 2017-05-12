@@ -22,7 +22,7 @@ This is a Pi-based robot to implement visual recognition([by Inception V3](https
 
 ([The Architecture: You Only Look Once: Unified, Real-Time Object Detection || Joseph Redmon∗ , Santosh Divvala∗†, Ross Girshick¶, Ali Farhadi∗†](https://pjreddie.com/media/files/papers/yolo_1.pdf)). 
  
- ![Chart_IR.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Chart_ImageRecognition.png)
+ ![Chart_IR.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/Architecture_CNN.png)
 
 
 * Schematic diagram of Inception-v3 
