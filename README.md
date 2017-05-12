@@ -15,7 +15,7 @@ This is a Pi-based robot to implement visual recognition([by Inception V3](https
 
 
 ## Motivation
- I was so curious about exellence of the image recognition with TensorFlow on Raspberry Pi. Also, the Jupyter notebook is very convenient to instantly code as a qucik prototype. So, in terms of error rate of the image classification, Inception V3(3.46%) is more excellent than human(5.1%) whereas raspberry pi's processing speed is very slow compare to my laptop.  
+ I was so curious about exellence of the image recognition with TensorFlow on Raspberry Pi. Also, the Jupyter notebook is very convenient to instantly code as a quick prototype. So, in terms of error rate of the image classification, Inception V3(3.46%) is more excellent than human(5.1%) whereas raspberry pi's processing speed is very slow compare to my laptop.  
 
 ([Chart: Jeffrey Dean's Keynote @Google Brain](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)). 
  
