@@ -7,6 +7,7 @@
 This is a Pi-based robot to implement visual recognition([by Inception V3](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)). The TensorFlow-Powered vision can recognize many objects such as people, car, bus, fruits, and so on. 
 
 * Hardware: Raspberry-Pi2, Sony PS3 Eye Camera
+ 
  (Available to use Logitech C270 USB camera)
 
 * Software: TensorFlow(v1.0.1), Jupyter-Notebook
