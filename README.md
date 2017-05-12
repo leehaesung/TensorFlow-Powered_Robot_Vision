@@ -15,6 +15,6 @@ This robot(Raspberry Pi2) can recognize many objects such as people, car, fruits
 
 [TensorFlow-Powered_Robot_Vision.ipynb](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/TensorFlow-Powered_Robot_Vision.ipynb)
 
-## Results
+## Result of Object Recognition
 
 ![RecognitionResult.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Result_96.25.png)
