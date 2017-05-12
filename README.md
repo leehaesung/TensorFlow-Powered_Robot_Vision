@@ -6,22 +6,24 @@
 
 This is a Pi-based robot to implement visual recognition([by Inception V3](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)). The TensorFlow-Powered vision can recognize many objects such as people, car, bus, fruits, and so on. 
 
-* Why do I use?
-
- In terms of the image classification, Inception V3 is more excellent than human as you can see the chart ([Jeffrey Dean's Keynote @Google Brain](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)).
- ![Chart_IR.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Chart_ImageRecognition.png)
-
-
-* Schematic diagram of Inception-v3 
-
-![InceptionV3.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/InceptionV3.png)
-
 * Hardware: Raspberry-Pi2, Sony PS3 Eye Camera
  (Available to use Logitech C270 USB camera)
 
 * Software: TensorFlow(v1.0.1), Jupyter-Notebook
 
 ![Structure.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Structure.png)
+
+
+## Motivation
+ I was so curious about exellence of the image recognition with TensorFlow on Raspberry Pi. Also, the Jupyter notebook is very useful and instantly to code as a qucik prototype. 
+ In terms of the image classification, Inception V3 is more excellent than human as you can see the chart ([Jeffrey Dean's Keynote @Google Brain](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)). 
+ 
+ ![Chart_IR.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Chart_ImageRecognition.png)
+
+
+* Schematic diagram of Inception-v3 
+
+![InceptionV3.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/InceptionV3.png)
 
 
 ## Requirements and Installation
