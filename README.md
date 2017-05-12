@@ -8,8 +8,7 @@ This robot(Raspberry Pi2) can recognize many objects such as people, car, fruits
 
 * Software: TensorFlow(v1.0.1), Jupyter-Notebook
 
-![TensorFlow-Powered_Robot_Vision.jpg](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/TensorFlow-Powered_Robot_Vision.jpg)
-![PS3EYEcamera](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/PS3%20eye%20camera.jpg)
+![Structure.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Structure.png)
 
 ## Jupyter Notebook
 
