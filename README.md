@@ -8,10 +8,8 @@ This is a Pi-based robot to implement visual recognition([by Inception V3](https
 
 * Why do I use?
 
- In terms of the image classification, Inception V3 is more excellent than human as you can see the chart.
+ In terms of the image classification, Inception V3 is more excellent than human as you can see the chart(by [[Jeffrey Dean's Keynote](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)]()).
  ![Chart_IR.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Chart_ImageRecognition.png)
- 
- [Jeffrey Dean's Keynote](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)
 
 
 * Schematic diagram of Inception-v3 
