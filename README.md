@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a Pi-based robot to implement visual recognition([Inception V3](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)). The TensorFlow-Powered vision can recognize many objects such as people, car, bus, fruits, and so on. 
+This is a Pi-based robot to implement visual recognition([by Inception V3](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)). The TensorFlow-Powered vision can recognize many objects such as people, car, bus, fruits, and so on. 
 
 * Schematic diagram of Inception-v3 
 
