@@ -2,7 +2,9 @@
 
 ***
 
-This robot(Raspberry Pi2) can recognize many objects such as people, car, fruits, and so on
+## Introduction
+
+This is a Pi-based robot to implement visual recognition. The TensorFlow-Powered vision can recognize many objects such as people, car, fruits, and so on. 
 
 * Hardware: Raspberry-Pi2, PS3 Eye Camera
 
