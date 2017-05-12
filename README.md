@@ -21,11 +21,22 @@ This is a Pi-based robot to implement visual recognition. The TensorFlow-Powered
  
  
 ## Quick Start
+You should install both TensorFlow(v1.0.1) and Jupyter-Notebook.
 First, clone the TensorFlow-Powered_Robot_Vision git repository on your Raspberry Pi. This can be accomplished by:
 ```
+cd /home/pi/Documents
 git clone https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision.git
 ```
- 
+Next, cd into the newly created directory:
+```
+cd TensorFlow-Powered_Robot_Vision
+``` 
+Let's start Jupyter-notebook on cammand window.
+```
+jupyter-notebook
+```
+(When you implement the jupyter-notebook, the trained data(inception_v3.ckpt) will automatically download there.(/pi/home/Documents/datasets/inception).
+
 
 ## Source Code
 
