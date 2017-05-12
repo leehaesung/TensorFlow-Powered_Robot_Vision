@@ -54,7 +54,6 @@ When you implement the jupyter-notebook, the trained data(inception_v3.ckpt) wil
 
 
 ## Reference
-* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
-* [Image Recognition::Tensorflow.org](https://www.tensorflow.org/tutorials/image_recognition)
-
-
+* [Rethinking the Inception Architecture for Computer Vision (Paper)](https://arxiv.org/abs/1512.00567)
+* [Image Recognition::Tensorflow.org (Web)](https://www.tensorflow.org/tutorials/image_recognition)
+* Hands-On Machine Learning with Scikit-Learn and TensorFlow (Book)
