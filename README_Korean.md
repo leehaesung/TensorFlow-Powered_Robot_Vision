@@ -2,6 +2,7 @@
 
 ***
 
+* TensorFlow Version: 1.0.1
 * [English version](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README.md)
 
 ## 소개
