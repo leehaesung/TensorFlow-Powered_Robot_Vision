@@ -62,7 +62,7 @@ cd TensorFlow-Powered_Robot_Vision
 ```
 jupyter-notebook
 ```
-주피터노트북을 구동할때 미리 훈련된 데이터(inception_v3.ckpt)가 자동으로 다운로드됩니다. (저장장소: / pi / home / Documents / datasets / inception)(/pi/home/Documents/datasets/inception)
+주피터노트북을 구동할때 미리 훈련된 데이터(inception_v3.ckpt)가 자동으로 다운로드됩니다. (저장장소: / pi / home / Documents / datasets / inception)
 
 
 ## 소스 코드
