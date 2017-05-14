@@ -3,7 +3,7 @@
 ***
 
 * TensorFlow Version: 1.0.1
-* [Written by Korean version](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
+* [Written by Korean Version](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
 
 ## Introduction
 
@@ -75,7 +75,7 @@ The pre-trained data(inception_v3.ckpt) will automatically download when driving
 * inception_v3.ckpt (When implementing the jupyter notebook)
 
 
-## Result of Object Recognition 
+## Results of Object Recognition 
 
 * Wow! The result is really awessome!!
 
