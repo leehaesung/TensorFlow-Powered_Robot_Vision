@@ -3,7 +3,7 @@
 ***
 
 * TensorFlow Version: 1.0.1
-* [Written by Korean Version](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
+* [Written by Korean](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/README_Korean.md)
 
 ## Introduction
 
