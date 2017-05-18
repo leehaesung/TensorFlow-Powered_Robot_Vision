@@ -84,7 +84,7 @@ The pre-trained data(inception_v3.ckpt) will automatically download when driving
 
 
 
-## Reference
+## References
 
 * [Rethinking the Inception Architecture for Computer Vision (Paper)](https://arxiv.org/abs/1512.00567)
 * [Image Recognition::Tensorflow.org (Web)](https://www.tensorflow.org/tutorials/image_recognition)
