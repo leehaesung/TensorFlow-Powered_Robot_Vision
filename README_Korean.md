@@ -21,7 +21,7 @@
 ## 나의 동기
  저는 라즈베리파이의 텐서플로우를 이용해서 이미지 인식성능 대해 정말 궁금하였습니다. 또한 주피터노트북은 빠른 프로토타입으로 즉석으로 코드를 작성하는 데 매우 편리합니다. 따라서 이미지 분류의 오류율 측면에서 Inception V3 (3.46 %)는 인간 (5.1 %)보다 우수하지만 라즈베리 파이의 처리 속도는 노트북과 비교할 때 매우 느립니다.  
 
-([차트: 제프리 딘의 키노트 @구글 브레인](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)). 
+([차트: 제프딘의 키노트 @구글 브레인](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)). 
  
  ![Chart_IR.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Chart_ImageRecognition.png)
 
