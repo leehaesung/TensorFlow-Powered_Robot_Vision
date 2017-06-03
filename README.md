@@ -14,7 +14,7 @@ This is a Pi-based robot to implement visual recognition([Inception V3](https://
    (Available to use Logitech C270 USB camera with Raspberry Pi)
 
 * Software: TensorFlow(v1.0.1), Jupyter-Notebook
-* [Schematics](https://www.instructables.com/file/FHT2FNVIXAQ565I/)
+* [Schematics: Only USB Camera Part](https://www.instructables.com/file/FHT2FNVIXAQ565I/)
 
 ![Structure.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Structure.png)
 
@@ -86,6 +86,7 @@ The pre-trained data(inception_v3.ckpt) will automatically download when driving
 ## How To Retrain 
 
 * [This CodeLab(Google) is really useful in learning this stuff](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0)
+* [Train an Image Classifier with TensorFlow for Poets (YouTube)](https://www.youtube.com/watch?v=cSKfRcEDGUs)
 * [How to Retrain Inception's Final Layer for New Categories](https://www.tensorflow.org/tutorials/image_retraining)
 
 
