@@ -82,6 +82,10 @@ The pre-trained data(inception_v3.ckpt) will automatically download when driving
 ![RecognitionResult.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Result_96.25.png)
 
 
+## How To Retrain 
+
+![This CodeLab(Google) is really useful in learning this stuff](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0)
+![How to Retrain Inception's Final Layer for New Categories](https://www.tensorflow.org/tutorials/image_retraining)
 
 
 ## References
@@ -91,3 +95,4 @@ The pre-trained data(inception_v3.ckpt) will automatically download when driving
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow (Book)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?ie=UTF8&qid=1494573194&sr=8-1&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow)
 * [Train your own image classifier with Inception in TensorFlow (Blog)](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html)
 * ["Large-Scale Deep Learning for Building Intelligent Computer Systems," a Keynote Presentation from Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44921.pdf)
+* [How Convolutional Neural Networks work (YouTube)](https://www.youtube.com/watch?v=FmpDIaiMIeA)
