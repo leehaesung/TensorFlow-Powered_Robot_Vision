@@ -14,6 +14,7 @@ This is a Pi-based robot to implement visual recognition([Inception V3](https://
    (Available to use Logitech C270 USB camera with Raspberry Pi)
 
 * Software: TensorFlow(v1.0.1), Jupyter-Notebook
+* Schematics: [Schematics](https://www.instructables.com/file/FHT2FNVIXAQ565I/)
 
 ![Structure.png](https://github.com/leehaesung/TensorFlow-Powered_Robot_Vision/blob/master/ImageFiles/Structure.png)
 
