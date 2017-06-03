@@ -84,8 +84,8 @@ The pre-trained data(inception_v3.ckpt) will automatically download when driving
 
 ## How To Retrain 
 
-![This CodeLab(Google) is really useful in learning this stuff](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0)
-![How to Retrain Inception's Final Layer for New Categories](https://www.tensorflow.org/tutorials/image_retraining)
+[This CodeLab(Google) is really useful in learning this stuff](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0)
+[How to Retrain Inception's Final Layer for New Categories](https://www.tensorflow.org/tutorials/image_retraining)
 
 
 ## References
